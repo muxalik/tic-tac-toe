@@ -1,6 +1,6 @@
 <h1 align="center">Tic Tac Toe</h1>
 
-Tic Tac Toe game created using React, Framer Motion. 
+Tic Tac Toe game created using React and Framer Motion. 
 
 ## Screenshots
 
@@ -18,7 +18,7 @@ Here is how you can run the project locally:
 
 1. Clone this repo
     ```sh
-    git clone https://github.com/muxailk/tic-tact-toe.git
+    git clone https://github.com/muxalik/tic-tact-toe.git
     ```
 
 1. Go into the project root directory
